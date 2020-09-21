@@ -1,0 +1,13 @@
+.my-central-col {
+	background-color: #c5f6ff;
+	min-height: 100px;
+	padding: 20px;
+}
+
+.progress {
+	margin-bottom: 20px;
+}
+
+.my-button {
+	margin: 0 10px;
+}
